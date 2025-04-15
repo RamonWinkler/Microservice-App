@@ -6,3 +6,6 @@ A user can upload a video to be converted in a mp3-file. The request will first 
 
 <img width="1097" alt="image" src="https://github.com/user-attachments/assets/33487a08-fc7f-4bd2-adad-60b52fcebd41" />
 
+## auth service
+All of the code for the service was created in the server.py file. The reason for that is that the service is relatively small.
+
